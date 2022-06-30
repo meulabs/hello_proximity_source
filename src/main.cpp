@@ -15,9 +15,9 @@
 #define WIFI_PASSWORD "password" // Enter your wifi password
 
 // Your Firebase Project Web API Key
-#define API_KEY "AIzaSyCRu8CToTb-6OJe6LJMATeo8-tjsTFdALI"
+#define API_KEY "API_key"
 // Your Firebase Realtime database URL
-#define DATABASE_URL "https://hello-esp-99632-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define DATABASE_URL "databse_url"
 
 // Firebase Realtime Database Object
 FirebaseData fbdo;
